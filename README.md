@@ -6,6 +6,7 @@ The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/resear
 ## Current projects
 
 - ColNet: Embedding the Semantics of Web Tables for Column Type Prediction. [(github)](https://github.com/ChenJiaoyan/AIDA_ML_SemTech)
+- Tabular Data Semantics.  Auxiliary classes to access DBpedia and Wikidata for Web table matching. [(gihub)](https://github.com/ernestojimenezruiz/tabular-data-semantics) 
 
 
 
