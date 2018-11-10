@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/populationTotal","population","False","1"
+"http://dbpedia.org/ontology/lifeExpectancy","life ex.","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/perCapitaIncome","inc ppp","False","6"

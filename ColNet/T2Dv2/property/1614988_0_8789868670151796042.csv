@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/birthDate","geb.","False","2"
+"http://dbpedia.org/ontology/deathDate","gest.","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","name","True","0"

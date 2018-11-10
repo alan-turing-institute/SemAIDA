@@ -1,0 +1,11 @@
+Data source: http://webdatacommons.org/webtables/goldstandardV2.html
+
+class_GS.csv: ground truth class of PK columns, provided by the original data source
+
+col_class_checked_fg.csv: fine-grained ground truth class for all columns (checked by us), consistent with exp_T2D/in_out/column_gt_fg.csv
+
+tables/: table contents
+
+instance/: ground truth of cell to entity matching
+
+property/: ground truth of column to property matching

@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/doctoralAdvisor","supervisor","False","3"
+"http://dbpedia.org/ontology/almaMater","granting institution","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","mathematician","True","0"

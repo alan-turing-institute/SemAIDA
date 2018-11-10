@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/elevation","altitude                   in meter","False","2"
+"http://dbpedia.org/ontology/locatedInArea","himal","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","name of the peaks","True","1"

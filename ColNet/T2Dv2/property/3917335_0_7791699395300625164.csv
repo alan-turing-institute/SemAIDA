@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/populationTotal","population 2008 est.","False","3"
+"http://dbpedia.org/ontology/PopulatedPlace/area","area sq.km.","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/capital","capital","False","1"

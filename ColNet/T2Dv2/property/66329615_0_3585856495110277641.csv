@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/computingPlatform","platform","False","2"
+"http://dbpedia.org/ontology/manufacturer","manufacturer","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","1"
+"http://dbpedia.org/ontology/releaseDate","release date","False","0"

@@ -1,0 +1,6 @@
+"http://dbpedia.org/ontology/governmentType","government[53]","False","5"
+"http://dbpedia.org/ontology/grossDomesticProduct","gdp nominal (us$m)[50]","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/grossDomesticProduct","per capitagdp (us$)[51]","False","3"
+"http://dbpedia.org/ontology/PopulatedPlace/area","{2|[49]}","False","1"
+"http://dbpedia.org/ontology/populationTotal","population[52]","False","4"

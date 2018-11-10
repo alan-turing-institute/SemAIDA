@@ -1,0 +1,7 @@
+"http://dbpedia.org/ontology/type","mammal type","False","1"
+"http://dbpedia.org/ontology/description","special characteristic","False","7"
+"http://dbpedia.org/ontology/water","water source","False","6"
+"http://dbpedia.org/ontology/child","name of young","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","animal","True","0"
+"http://dbpedia.org/ontology/movement","locomotion","False","4"
+"http://dbpedia.org/ontology/range","habitat","False","5"

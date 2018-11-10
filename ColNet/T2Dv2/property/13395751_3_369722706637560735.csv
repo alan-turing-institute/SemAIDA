@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/elevation","elevation                        (metres)","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","name of water body","True","0"
+"http://dbpedia.org/ontology/areaTotal","total area                        (square kilometres)","False","2"

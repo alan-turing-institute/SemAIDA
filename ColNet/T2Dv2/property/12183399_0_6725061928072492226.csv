@@ -1,0 +1,5 @@
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/currency","currency","False","3"
+"http://dbpedia.org/ontology/iso31661Code","country code(2-character)","False","2"
+"http://dbpedia.org/ontology/iso31661Code","country code(3-character)","False","1"
+"http://dbpedia.org/ontology/currencyCode","currency code","False","4"

@@ -1,0 +1,7 @@
+"http://dbpedia.org/ontology/Software/fileSize","size","False","6"
+"http://dbpedia.org/ontology/releaseDate","europe","False","3"
+"http://dbpedia.org/ontology/releaseDate","north america","False","2"
+"http://dbpedia.org/ontology/cost","cost","False","5"
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","0"
+"http://dbpedia.org/ontology/publisher","publisher","False","1"
+"http://dbpedia.org/ontology/releaseDate","japan","False","4"

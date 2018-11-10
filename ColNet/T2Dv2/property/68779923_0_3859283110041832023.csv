@@ -1,0 +1,6 @@
+"http://dbpedia.org/ontology/language","languages","False","5"
+"http://dbpedia.org/ontology/creationYear","date","False","1"
+"http://dbpedia.org/ontology/formerName","previous names","False","2"
+"http://dbpedia.org/ontology/governmentType","government","False","4"
+"http://www.w3.org/2000/01/rdf-schema#label","name","True","0"
+"http://dbpedia.org/ontology/capital","capital","False","3"

@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/capitalCoordinates","latitude","False","2"
+"http://dbpedia.org/ontology/capital","capital","False","1"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/capitalCoordinates","longitude","False","3"

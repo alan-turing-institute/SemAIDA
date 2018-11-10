@@ -1,0 +1,5 @@
+"http://dbpedia.org/ontology/revenue","revenue(billion $)","False","4"
+"http://dbpedia.org/ontology/headquarter","headquarters","False","2"
+"http://dbpedia.org/ontology/industry","industry","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","company","True","1"
+"http://dbpedia.org/ontology/assets","assets(billion $)","False","6"

@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/PopulatedPlace/populationDensity","population density          (sq. km.)","False","4"
+"http://dbpedia.org/ontology/PopulatedPlace/area","area           (sq. km.)","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","country name:","True","1"
+"http://dbpedia.org/ontology/populationTotal","population","False","2"

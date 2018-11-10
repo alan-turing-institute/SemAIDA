@@ -1,0 +1,5 @@
+"http://dbpedia.org/ontology/genre","genre","False","2"
+"http://dbpedia.org/ontology/year","year","False","0"
+"http://www.w3.org/2000/01/rdf-schema#label","game","True","1"
+"http://dbpedia.org/ontology/computingPlatform","platform(s)","False","3"
+"http://dbpedia.org/ontology/developer","developer(s)","False","4"

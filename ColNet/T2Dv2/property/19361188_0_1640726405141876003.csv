@@ -1,0 +1,3 @@
+"http://www.w3.org/2000/01/rdf-schema#label","summit","True","0"
+"http://dbpedia.org/ontology/elevation","height(m)","False","1"
+"http://dbpedia.org/ontology/elevation","height (ft)","False","2"

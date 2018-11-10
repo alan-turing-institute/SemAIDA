@@ -1,0 +1,3 @@
+"http://www.w3.org/2000/01/rdf-schema#label","museum","True","0"
+"http://dbpedia.org/ontology/location","city","False","1"
+"http://dbpedia.org/ontology/location","state","False","2"

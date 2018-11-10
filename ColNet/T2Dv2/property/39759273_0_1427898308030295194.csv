@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/releaseDate","year","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","1"
+"http://dbpedia.org/ontology/rating","imdb rating","False","4"
+"http://dbpedia.org/ontology/director","director","False","3"

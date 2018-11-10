@@ -1,0 +1,4 @@
+"http://www.w3.org/2000/01/rdf-schema#label","gebäude","True","2"
+"http://dbpedia.org/ontology/floorCount","etagen","False","4"
+"http://dbpedia.org/ontology/location","stadt","False","3"
+"http://dbpedia.org/ontology/openingDate","jahr","False","6"

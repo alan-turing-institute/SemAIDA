@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/releaseDate","year","False","2"
+"http://dbpedia.org/ontology/author","author","False","3"
+"http://dbpedia.org/ontology/religion","religious affiliation of author","False","4"
+"http://www.w3.org/2000/01/rdf-schema#label","title of great novel","True","1"

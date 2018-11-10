@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/industry","industry","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","company","True","0"
+"http://dbpedia.org/ontology/symbol","{symbol|}","False","1"

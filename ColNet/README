@@ -1,0 +1,41 @@
+Our software settings:
+    python 2.7
+    tensorflow 1.9.0
+    gensim 3.4.0
+    python sparql-client 2.6
+    sklearn 0.19.2
+
+Requirements:
+    wikipedia corpus (e.g., https://github.com/attardi/wikiextractor)
+    pre-train word2vec (e.g., https://radimrehurek.com/gensim/models/word2vec.html)
+
+Instructions:
+    Step #0 (ground truth):
+        evaluate_infer_col_gt.py
+            --> column_gt_extend_fg.csv
+
+    Step #1 (sampling):
+        sample_lookup.py
+            --> lookup_entities, lookup_classes.py, lookup_col_classes.py
+        sample_particular.py
+            --> particular_pos_samples.csv, particular_neg_samples.py
+        sample_general.py
+            --> general_pos_samples.csv
+
+    Step #2 (training):
+        train_cnn.py
+            --> in_out/cnn/cnn_1_2_1.00/ (1: synthetic_column_size, 2: train_type, 1.00: knowledge gap)
+
+    Step #3 (prediction):
+        predict_colnet.py
+            --> predictions/p_cnn_1_2_1.00.csv
+        predict_lookup.py (voting by entities matched by DBpedia lookup)
+            --> predictions/p_lookup.csv
+        predict_ensemble.py
+            --> predictions/p_cnn_1_2_1.00_lookup.csv
+        predict_ent_class.py (voting by entities matched by ISWC'17 paper)
+            --> predictions/p_ent_class.csv
+
+    Step #4 (evaluation):
+        evaluate_strict.py
+        evaluate_tolerant.py

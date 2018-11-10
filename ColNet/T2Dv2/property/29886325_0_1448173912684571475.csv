@@ -1,0 +1,5 @@
+"http://dbpedia.org/ontology/populationMetro","metro           population","False","4"
+"http://dbpedia.org/ontology/mayor","mayor","False","5"
+"http://dbpedia.org/ontology/populationTotal","city           population","False","3"
+"http://dbpedia.org/ontology/country","country","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","city","True","1"

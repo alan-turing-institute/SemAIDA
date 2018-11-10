@@ -1,0 +1,3 @@
+"http://www.w3.org/2000/01/rdf-schema#label","currency","True","1"
+"http://dbpedia.org/ontology/usingCountry","country","False","0"
+"http://dbpedia.org/ontology/currency","sub currency","False","2"

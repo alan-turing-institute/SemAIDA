@@ -1,0 +1,4 @@
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","0"
+"http://dbpedia.org/ontology/developer","developer(s)","False","1"
+"http://dbpedia.org/ontology/publisher","publisher(s)","False","2"
+"http://dbpedia.org/ontology/releaseDate","release date","False","3"

@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/releaseDate","eu release date","False","2"
+"http://dbpedia.org/ontology/publisher","publisher","False","1"
+"http://dbpedia.org/ontology/releaseDate","au release date","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","0"

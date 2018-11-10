@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/country","country","False","4"
+"http://dbpedia.org/ontology/releaseDate","year","False","6"
+"http://dbpedia.org/ontology/director","director","False","5"
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","3"

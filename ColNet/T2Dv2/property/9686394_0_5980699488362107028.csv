@@ -1,0 +1,3 @@
+"http://www.w3.org/2000/01/rdf-schema#label","airport name","True","1"
+"http://dbpedia.org/ontology/iataLocationIdentifier","code","False","0"
+"http://dbpedia.org/ontology/city","city","False","2"

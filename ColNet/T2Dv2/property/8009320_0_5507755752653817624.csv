@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/populationTotal","population","False","3"
+"http://dbpedia.org/ontology/PopulatedPlace/areaTotal","area","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","0"
+"http://dbpedia.org/ontology/GeopoliticalOrganisation/populationDensity","pop. dens.","False","1"

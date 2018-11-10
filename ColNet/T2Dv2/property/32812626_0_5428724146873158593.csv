@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/circle","city","False","1"
+"http://dbpedia.org/ontology/bedCount","staffedbeds","False","2"
+"http://www.w3.org/2000/01/rdf-schema#label","hospital name","True","0"

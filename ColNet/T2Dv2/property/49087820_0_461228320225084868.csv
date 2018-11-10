@@ -1,0 +1,4 @@
+"http://dbpedia.org/ontology/currencyCode","alphabetic code&nbsp;&nbsp;&nbsp;&nbsp;","False","2"
+"http://dbpedia.org/ontology/subdivision","subdivision","False","5"
+"http://dbpedia.org/ontology/usingCountry","country","False","0"
+"http://www.w3.org/2000/01/rdf-schema#label","currency","True","1"

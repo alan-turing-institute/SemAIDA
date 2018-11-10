@@ -1,0 +1,5 @@
+"http://dbpedia.org/ontology/collectionSize","country","False","1"
+"http://dbpedia.org/ontology/sales","sales ($bil)","False","3"
+"http://www.w3.org/2000/01/rdf-schema#label","company","True","0"
+"http://dbpedia.org/ontology/assets","assets ($bil)","False","5"
+"http://dbpedia.org/ontology/industry","industry","False","2"

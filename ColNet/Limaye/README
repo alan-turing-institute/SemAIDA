@@ -1,0 +1,10 @@
+Data source: http://www.cs.toronto.edu/~oktie/webtables/csv/, released by
+    "Matching web tables with knowledge base entities: From entity lookups to entity embeddings"
+    ﻿Efthymiou, Vasilis and Hassanzadeh, Oktie and Rodriguez-Muro, Mariano and Christophides, Vassilis
+     ISWC 2017
+
+column_gt_fg.csv: ground truth class of PK columns
+
+table_instance_json: original table contents
+
+entities_instance: ground truth of cell to entity matching

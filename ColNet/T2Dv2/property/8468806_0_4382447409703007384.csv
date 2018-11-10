@@ -1,0 +1,6 @@
+"http://www.w3.org/2000/01/rdf-schema#label","name","True","1"
+"http://dbpedia.org/ontology/length","länge-(km)","False","4"
+"http://dbpedia.org/ontology/depth","max.-tiefe-(m)","False","5"
+"http://dbpedia.org/ontology/Lake/volume","volumen-(km³)","False","6"
+"http://dbpedia.org/ontology/country","staat(en)","False","2"
+"http://dbpedia.org/ontology/areaTotal","fläche-(km²)","False","3"

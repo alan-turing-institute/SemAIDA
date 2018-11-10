@@ -1,0 +1,3 @@
+"http://www.w3.org/2000/01/rdf-schema#label","title","True","1"
+"http://dbpedia.org/ontology/releaseDate","year","False","2"
+"http://dbpedia.org/ontology/director","director(s)","False","3"

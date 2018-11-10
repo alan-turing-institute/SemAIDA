@@ -1,0 +1,5 @@
+"http://dbpedia.org/ontology/grossDomesticProduct","gdp","False","4"
+"http://dbpedia.org/ontology/populationTotal","population","False","6"
+"http://www.w3.org/2000/01/rdf-schema#label","country","True","1"
+"http://dbpedia.org/ontology/infantMortality","infant        mortality","False","8"
+"http://dbpedia.org/ontology/grossDomesticProduct","gdp        per capita","False","2"

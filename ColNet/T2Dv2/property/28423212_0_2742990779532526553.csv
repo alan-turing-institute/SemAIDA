@@ -1,0 +1,3 @@
+"http://dbpedia.org/ontology/sales","sales","False","2"
+"http://dbpedia.org/ontology/industry","industry","False","1"
+"http://www.w3.org/2000/01/rdf-schema#label","company","True","0"
