@@ -10,7 +10,7 @@ Requirements:
     pre-train word2vec (e.g., https://radimrehurek.com/gensim/models/word2vec.html)
 
 Instructions:
-    Step #0 (ground truth):
+    Step #0 (get okay ground truth classes):
         evaluate_infer_col_gt.py
             --> column_gt_extend_fg.csv
 
