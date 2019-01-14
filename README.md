@@ -18,4 +18,4 @@ The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/resear
 
 ### Acknowledgements
 
-This work is supported by the AIDA project (UK Government's Defence & Security Programme in support of the Alan Turing Institute), and the SIRIUS Centre for Scalable Data Access (Research Council of Norway, project 237889).
+This work is supported by the [AIDA project](https://www.turing.ac.uk/research/research-projects/artificial-intelligence-data-analytics) (UK Government's Defence & Security Programme in support of the [Alan Turing Institute](https://www.turing.ac.uk/)), and the [SIRIUS Centre for Scalable Data Access](http://sirius-labs.no/) (Research Council of Norway, project 237889).
