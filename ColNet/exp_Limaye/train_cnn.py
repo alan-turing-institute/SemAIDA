@@ -5,7 +5,8 @@ import argparse
 import datetime
 import numpy as np
 import tensorflow as tf
-from gensim.models import Word2Vec
+#from gensim.models import Word2Vec
+from gensim.models import KeyedVectors
 from util_cnn import SyntheticColumnCNN
 from util_cnn import generate_synthetic_columns
 from util_cnn import synthetic_columns2sequence
@@ -320,7 +321,8 @@ cls_neg_par_entities = read_cls_entities('particular_neg_samples.csv')
 cls_pos_gen_entities = read_cls_entities('general_pos_samples.csv')
 
 print('Step #3: load word2vec model')
-w2v_model = Word2Vec.load(os.path.join(FLAGS.model_dir, 'word2vec_gensim'))
+#w2v_model = Word2Vec.load(os.path.join(FLAGS.model_dir, 'word2vec_gensim'))
+w2v_model = KeyedVectors.load_word2vec_format(os.path.join(FLAGS.model_dir, 'word2vec_gensim.bin'), binary=True)
 
 print('Step #4: train class by class')
 for cls in classes:

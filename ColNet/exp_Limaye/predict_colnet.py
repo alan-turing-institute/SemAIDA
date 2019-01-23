@@ -3,7 +3,8 @@ import sys
 import argparse
 import numpy as np
 import tensorflow as tf
-from gensim.models import Word2Vec
+#from gensim.models import Word2Vec
+from gensim.models import KeyedVectors
 from util_limaye import read_cells_by_cols
 from util_cnn import ordered_cells2synthetic_columns
 from util_cnn import sequence2matrix
@@ -50,7 +51,8 @@ parser.add_argument(
 FLAGS, unparsed = parser.parse_known_args()
 
 print('load word2vec model ...')
-w2v_model = Word2Vec.load(os.path.join(FLAGS.model_dir, 'word2vec_gensim'))
+#w2v_model = Word2Vec.load(os.path.join(FLAGS.model_dir, 'word2vec_gensim'))
+w2v_model = KeyedVectors.load_word2vec_format(os.path.join(FLAGS.model_dir, 'word2vec_gensim.bin'), binary=True)
 
 
 def predict(test_x, classifier_name):
