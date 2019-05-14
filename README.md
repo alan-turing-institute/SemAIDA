@@ -14,7 +14,7 @@ The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/resear
 ## References
 
 - Jiaoyan Chen, Ernesto Jimenez-Ruiz, Ian Horrocks, Charles Sutton. **Learning the Semantics of Tabular Data**. Accepted for publication in the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019.
-- Jiaoyan Chen, Ernesto Jimenez-Ruiz, Ian Horrocks, Charles Sutton. **ColNet: Embedding the Semantics of Web Tables for Column Type Prediction**. Accepted for publication in the 33rd AAAI Conference on Artificial Intelligence. [arXiv](https://arxiv.org/abs/1811.01304) [Slides](https://github.com/alan-turing-institute/SemAIDA/raw/master/AAAI19_ColNet_Slide.pdf) [Slides extended](https://github.com/alan-turing-institute/SemAIDA/raw/master/AIDA_ColNet_Slides_extended.pdf).
+- Jiaoyan Chen, Ernesto Jimenez-Ruiz, Ian Horrocks, Charles Sutton. **ColNet: Embedding the Semantics of Web Tables for Column Type Prediction**. In the 33rd AAAI Conference on Artificial Intelligence. [arXiv](https://arxiv.org/abs/1811.01304) [Slides](https://github.com/alan-turing-institute/SemAIDA/raw/master/AAAI19_ColNet_Slide.pdf) [Slides extended](https://github.com/alan-turing-institute/SemAIDA/raw/master/AIDA_ColNet_Slides_extended.pdf).
 
 
 ### Acknowledgements
