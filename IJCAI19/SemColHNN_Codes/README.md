@@ -45,4 +45,4 @@ Note the data name "Wikipedia" here refers to "Efthymiou" in the paper.
 
 Those parameters that are not specifically mentioned above, can be set to the default.
 
-set --wv_model to the word2vec model directory (a trained word2vec model can be found in another folder)
+set --wv_model to the word2vec model directory (one trained by Wikipedia article dump in 2018 can be downloaded by https://urlzs.com/ujAXZ)
