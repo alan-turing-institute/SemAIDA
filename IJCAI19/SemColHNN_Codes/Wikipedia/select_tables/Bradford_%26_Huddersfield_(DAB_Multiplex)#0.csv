@@ -1,0 +1,11 @@
+"Service","Service ID","Bit rate","Audio channels","Description","Analogue availability"
+"BBC Radio Leeds","CE34","128 kbit\/s","Joint stereo","Local BBC radio service","92.4, 95.3, 102.7, 103.9 MHz 774 kHz"
+"Heat Radio","CDCE","112 kbit\/s","Joint stereo","Contemporary pop music service","â\u0080\u0094"
+"Kismat Radio","C8C0","64 kbit\/s","Mono","Asian talk and music service","â\u0080\u0094"
+"Kiss","C483","128 kbit\/s","Joint stereo","Dance, pop and R&B music service","â\u0080\u0094"
+"Masti Radio","CFC2","64 kbit\/s","Mono","Asian music service","â\u0080\u0094"
+"Panjab Radio","CDC9","64 kbit\/s","Mono LSF","Panjabi service","â\u0080\u0094"
+"The Pulse","C9B0","128 kbit\/s","Joint stereo","Local contemporary pop music service","97.5, 102.5 MHz"
+"Pulse Two","CDCB","128 kbit\/s","Joint stereo","Local classic hits station","1278, 1530 kHz"
+"Sunrise Radio","CECB","64 kbit\/s","Mono","Asian service","â\u0080\u0094"
+
