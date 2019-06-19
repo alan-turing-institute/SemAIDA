@@ -1,6 +1,6 @@
 # SemAIDA: Semantic Technologies for the AIDA project
 
-The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/research/research-projects/artificial-intelligence-data-analytics) (AIDA) project aims at applying new advances in AI and machine learning to address data wrangling issues, and help to automate the data analytics process. Semantic Web technologies has the potential of contributing in the Data Science pipeline by providing a more complete (semantic) understanding of the data. 
+The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/research/research-projects/artificial-intelligence-data-analytics-aida) (AIDA) project aims at applying new advances in AI and machine learning to address data wrangling issues, and help to automate the data analytics process. Semantic Web technologies has the potential of contributing in the Data Science pipeline by providing a more complete (semantic) understanding of the data. 
 
 
 ## Current projects
