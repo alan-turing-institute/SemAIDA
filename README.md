@@ -16,7 +16,6 @@ The [Artificial Intelligence for Data Analytics](https://www.turing.ac.uk/resear
 - **Semantic Web Challenge on Tabular Data to Knowledge Graph Matching**. This [challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) will be collocated with the 18th International Semantic Web Conference ([ISWC](https://iswc2019.semanticweb.org/)) and the 14th International Workshop on Ontology Matching ([OM](http://om2019.ontologymatching.org/)). 
 - Jiaoyan Chen, Ernesto Jimenez-Ruiz, Ian Horrocks, Charles Sutton. **Learning Semantic Annotations for Tabular Data**. In the 28th International Joint Conference on Artificial Intelligence, **IJCAI 2019**. [(arXiv)](https://arxiv.org/abs/1906.00781) [(proceedings)](https://www.ijcai.org/proceedings/2019/289) 
 - Jiaoyan Chen, Ernesto Jimenez-Ruiz, Ian Horrocks, Charles Sutton. **ColNet: Embedding the Semantics of Web Tables for Column Type Prediction**. In the 33rd AAAI Conference on Artificial Intelligence. **AAAI 2019**. [(arXiv)](https://arxiv.org/abs/1811.01304) [(proceedings)](https://aaai.org/ojs/index.php/AAAI/article/view/3765)  [(Slides)](https://github.com/alan-turing-institute/SemAIDA/raw/master/AAAI19_ColNet_Slide.pdf) [(Slides extended)](https://github.com/alan-turing-institute/SemAIDA/raw/master/AIDA_ColNet_Slides_extended.pdf).
-- Jiaoyan Chen, Ernesto Jiménez-Ruiz, Ian Horrocks. **Canonicalizing Knowledge Base Literals**. Accepted for publication in the 18th International Semantic Web Conference. **ISWC 2019**. [(arXiv)](https://arxiv.org/abs/1906.11180) 
 
 
 ### Acknowledgements
