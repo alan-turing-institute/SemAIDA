@@ -8,6 +8,7 @@ Our software settings:
 Requirements:
     wikipedia corpus (e.g., https://github.com/attardi/wikiextractor)
     pre-train word2vec (e.g., https://radimrehurek.com/gensim/models/word2vec.html)
+    Pre-trained word2vec model by Wikipedia Dump: https://drive.google.com/open?id=1d_xrUPRLQjpcZrlm_cpKJO3jWBFKYhcl
 
 Instructions:
     Step #0 (get okay ground truth classes):
